@@ -1,6 +1,6 @@
 # SAS_R
 
-Click "launch binder" to render Docker image and build Binder session in R - May take a few minutes
+Click "launch binder" to render Docker image and build Binder session in R - May take several minutes. Once this has been completed, the next time the image is launched, it should load quickly.
 
 [![Binder](https://mybinder.org/badge_logo.svg)](https://mybinder.org/v2/gh/jcdunne/SAS_R/master)
 

@@ -6,7 +6,7 @@ Click "launch binder" to render Docker image and build Binder session in R - May
 
 Once the Binder session is built, click on the SAS_R.ipynb (IPYNB File extension) and launch the Jupyter Notebook with the notes from the SAS - R lecture. The cells of the Jupyter Notebook script can be run using the play (run) button or using Ctrl+Enter [Runs cell and remains in current cell] or Shift+Enter [Runs cell and moves to next cell].
 
-# <font color='red'>Downloads>/font>
+# <font color='red'>Downloads</font>
 
 To download files, click on the file of interest and follow the instructions below:
 

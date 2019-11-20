@@ -1,6 +1,6 @@
 # SAS_R
 
-Click "Launch Binder" to render Docker and launhc Binder session in R
+Click "launch binder" to render Docker and launhc Binder session in R
 
 [![Binder](https://mybinder.org/badge_logo.svg)](https://mybinder.org/v2/gh/jcdunne/SAS_R/master)
 
